@@ -1,6 +1,10 @@
+[![make.fun · gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![rank](https://make.fun/badge/gta6-01/Zikri167/makefun-gta6-01-dusk/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![reward](https://make.fun/badge/gta6-01/Zikri167/makefun-gta6-01-dusk/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+
 # Verde Heat — Costa Verde
 
-An open-world crime game in the spirit of GTA 6, built from scratch with three.js. $1,666 prize pool, 100 prize places.
+An open-world crime game in the spirit of GTA 6, built from scratch with three.js for the [make.fun GTA 6 bounty](https://make.fun/bounty/gta6-01). $1,666 prize pool, 100 prize places.
 
 Rico Vega just got out. Fixer Mara Voss has four jobs for him in the sun-soaked coastal city of Costa Verde — a fare, a hot car, a harbor run, and one last sundown drop. Finish them all and the city is his.
 
